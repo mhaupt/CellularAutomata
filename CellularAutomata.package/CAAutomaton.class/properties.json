@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rule" ],
+	"name" : "CAAutomaton",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

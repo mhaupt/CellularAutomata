@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"generations" ],
+	"name" : "CAMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

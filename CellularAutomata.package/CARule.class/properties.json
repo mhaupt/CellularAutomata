@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InputPatterns" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pattern" ],
+	"name" : "CARule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

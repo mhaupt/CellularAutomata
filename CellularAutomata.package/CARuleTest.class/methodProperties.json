@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testApplyRule0" : "mha 12/29/2022 19:05",
+		"testApplyRule23ToDoubleStarter" : "mha 12/29/2022 19:11",
+		"testApplyRule23ToFuzzyStarter" : "mha 12/29/2022 19:12",
+		"testApplyRule23ToSingleStarter" : "mha 12/29/2022 19:12",
+		"testApplyRule23ToStarter23" : "mha 12/29/2022 19:12",
+		"testApplyRule23ToTriples" : "mha 12/29/2022 19:10",
+		"testApplyRule30" : "mha 12/29/2022 19:12",
+		"testRule0" : "mha 12/29/2022 18:47",
+		"testRule23" : "mha 12/29/2022 19:10",
+		"testRuleApplicationPreservesGenerationLength" : "mha 12/29/2022 19:06",
+		"testRuleNumberFloat" : "mha 12/29/2022 18:50",
+		"testRuleNumberNotAnInteger" : "mha 12/29/2022 18:50",
+		"testRuleOutOfRange" : "mha 12/29/2022 18:51" } }

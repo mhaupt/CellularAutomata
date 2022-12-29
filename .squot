@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'CellularAutomata.package' : #SquotCypressCodeSerializer,
+	'Collections-Abstract.package' : #SquotCypressCodeSerializer
+}
