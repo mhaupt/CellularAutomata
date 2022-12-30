@@ -1,6 +1,13 @@
 drawing
 drawOn: canvas
+	| origin xbase ybase |
+	origin := self bounds origin.
+	xbase := origin x - 1.
+	ybase := origin y - 1.
 	canvas fillColor: Color white.
-	1 to: self generations size do: [ :n | | gen |
-		gen := self generations at: n.
-		self drawOn: canvas generation: n data: gen ]
+	generations
+		withIndexDo: [ :generationData :generationNumber | | y |
+			y := ybase + generationNumber.
+			generationData
+				withIndexDo: [ :e :x |
+					e = 1 ifTrue: [ canvas point: (xbase+x)@y color: Color black ] ] ]
