@@ -1,11 +1,20 @@
 {
 	"class" : {
-		"forRule:" : "mha 12/29/2022 19:20",
-		"runAndSaveRule:width:generations:" : "mha 12/30/2022 15:40",
-		"runAndShowRule:width:generations:" : "mha 12/30/2022 15:29" },
+		 },
 	"instance" : {
-		"initGeneration:" : "mha 12/31/2022 09:58",
+		"generations" : "mha 12/31/2022 13:36",
+		"generations:" : "mha 12/31/2022 13:36",
+		"initGeneration" : "mha 12/31/2022 13:39",
 		"initGeneration:atRandom:" : "mha 12/31/2022 09:58",
+		"initialiseDefaults" : "mha 12/31/2022 14:06",
+		"initialize" : "mha 12/31/2022 14:06",
+		"randomFirstGeneration" : "mha 12/31/2022 13:34",
+		"randomFirstGeneration:" : "mha 12/31/2022 13:35",
 		"rule" : "mha 12/29/2022 19:24",
-		"rule:" : "mha 12/29/2022 19:21",
-		"runWidth:generations:" : "mha 12/29/2022 19:25" } }
+		"rule:" : "mha 12/31/2022 14:04",
+		"ruleNo:" : "mha 12/31/2022 14:04",
+		"run" : "mha 12/31/2022 13:47",
+		"runAndOpen" : "mha 12/31/2022 13:51",
+		"runAndSave" : "mha 12/31/2022 13:50",
+		"width" : "mha 12/31/2022 13:34",
+		"width:" : "mha 12/31/2022 13:35" } }

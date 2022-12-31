@@ -1,8 +1,11 @@
 testing
 testRun
 	| au gens |
-	au := CAAutomaton forRule: (CARule number: 30).
-	gens := au runWidth: 7 generations: 4.
+	au := CAAutomaton new
+		ruleNo: 30;
+		width: 7;
+		generations: 4.
+	gens := au run.
 	self
 		assert: #(
 			#(0 0 0 1 0 0 0)

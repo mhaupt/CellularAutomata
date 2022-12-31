@@ -1,5 +1,7 @@
 testing
 testInitGenerationEvenWidth
 	| au |
-	au := CAAutomaton forRule: (CARule number: 0).
-	self assert: #(0 0 1 0) equals: (au initGeneration: 4)
+	au := CAAutomaton new
+		rule: 0;
+		width: 4.
+	self assert: #(0 0 1 0) equals: au initGeneration
