@@ -2,7 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testDefaults" : "mha 12/31/2022 14:02",
+		"testDefaults" : "mha 1/2/2023 22:49",
 		"testInitGeneration" : "mha 12/31/2022 14:03",
 		"testInitGenerationEvenWidth" : "mha 12/31/2022 14:03",
+		"testInitGenerationPattern" : "mha 1/2/2023 22:54",
 		"testRun" : "mha 12/31/2022 14:05" } }

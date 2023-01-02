@@ -9,7 +9,8 @@
 		"rule",
 		"width",
 		"generations",
-		"randomFirstGeneration" ],
+		"randomFirstGeneration",
+		"firstGenerationPattern" ],
 	"name" : "CAAutomaton",
 	"pools" : [
 		 ],

@@ -5,4 +5,5 @@ initialiseDefaults
 		ruleNo: 30;
 		width: 199;
 		generations: 49;
-		randomFirstGeneration: false
+		randomFirstGeneration: false;
+		firstGenerationPattern: nil

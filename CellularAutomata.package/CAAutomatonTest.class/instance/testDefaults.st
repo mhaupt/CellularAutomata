@@ -6,5 +6,7 @@ testDefaults
 	self
 		assert: [ ca width isInteger ];
 		assert: [ ca generations isInteger ];
-		assert: [ ca rule isMemberOf: CARule ]
+		assert: [ ca rule isMemberOf: CARule ];
+		assert: [ ca randomFirstGeneration not ];
+		assert: [ ca firstGenerationPattern isNil ]
 		
