@@ -1,4 +1,4 @@
-enumerating
+*CellularAutomata
 overlappingTriplesCollect: aBlock 
 	"Answer the result of evaluating aBlock with all of the overlapping triples of my elements."
 	| retval |
